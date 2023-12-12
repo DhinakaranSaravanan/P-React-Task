@@ -44,6 +44,7 @@ const List = () => {
     
     const content = (           
         <div className='content'>
+            <p>Under Construction</p>
             <h2>TODO LIST</h2>
             <form>
                 <input
